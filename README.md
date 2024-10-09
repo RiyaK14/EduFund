@@ -1,3 +1,3 @@
-# EduFund
+# EduHub
 hello
 kasa kay
